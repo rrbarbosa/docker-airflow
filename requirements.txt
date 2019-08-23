@@ -1,0 +1,3 @@
+sentry-sdk
+blinker
+Flask==1.0.4
